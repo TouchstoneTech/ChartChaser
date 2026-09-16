@@ -669,3 +669,5 @@ footer a:hover { color: var(--green); }
 }
 
 .hero h1{font-size:clamp(48px,7vw,88px)}.support-grid{display:grid;grid-template-columns:1fr 1fr;gap:48px}.support-grid a{color:var(--green);overflow-wrap:anywhere}.feature-grid{display:grid;grid-template-columns:repeat(3,1fr);gap:28px}.feature-grid article{border-top:1px solid var(--line-2);padding-top:24px}.feature-grid .label{color:var(--green);font:12px var(--mono);letter-spacing:.1em;margin-bottom:16px}.hero .phone{box-shadow:0 24px 100px #2be68c18}.hero .phone img{height:auto;width:294px}.masthead nav{margin:0}.masthead .brand img{width:40px;height:40px;border-radius:10px}@media(max-width:700px){.support-grid,.feature-grid{grid-template-columns:1fr;gap:30px}.masthead nav{display:flex;gap:16px}.hero h1{font-size:52px}.masthead .brand b{font-size:14px}}
+
+footer nav{display:flex;gap:24px;flex-wrap:wrap}.masthead nav{display:flex;gap:20px}html{scroll-padding-top:90px}@media(max-width:520px){.masthead .wrap{height:auto;min-height:76px;flex-wrap:wrap;padding-top:12px;padding-bottom:12px;gap:8px}.masthead nav{gap:18px;font-size:10px}.hero h1{font-size:clamp(40px,12vw,52px)}footer nav{gap:20px}}
